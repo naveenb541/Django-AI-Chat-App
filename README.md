@@ -83,7 +83,3 @@ make run
 ## Issues and Contributions
 
 If you encounter any issues or have suggestions for improvements, feel free to open an issue on this GitHub repository. We welcome contributions from the community. If you'd like to contribute code, please create a pull request.
-
-## License
-
-This project is licensed under the MIT License. You can find the license details in the [LICENSE](LICENSE) file. Feel free to use, modify, and distribute the code as per the terms of the MIT License.
